@@ -1,2 +1,2 @@
 
-print ("salut le monde!!")
+print ("salut monde!!")
